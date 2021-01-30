@@ -1,4 +1,4 @@
-## Emotion Detection
+# Emotion Detection
 Sentiment analysis is one of the most popular applications of Natural Language Processing. The key idea of the sentiment analysis is to analyze a text to understand the opinion that expressed. The text is usually expressed via a person who have moods, emotions, feelings. Sentiment analysis is generally used in social media analysis (to launch better product). 
 Sentiment Analysis is an analyze of the sentence. In the dataset, text gives an opinion about the sentence. In the project, a model was implemented that inputs a sentence and finds the most appropriate emotion to be used in the sentence. 
 
